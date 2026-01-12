@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/B2B/language-masters/en:/",
+    "/content/B2B/language-masters/en/:/en/",
+    "/content/B2B/language-masters/fr/:/fr/",
+    "/content/B2B/language-masters/fr:/fr",
+    "/content/B2B/language-masters/es/:/es/",
+    "/content/B2B/language-masters/es:/es",
+    "/content/B2B/language-masters/ja/:/ja/",
+    "/content/B2B/language-masters/ja:/ja",
+    "/content/B2B/language-masters/de/:/de/",
+    "/content/B2B/language-masters/de:/de",
+    "/content/B2B/configuration:/.helix/config.json",
+    "/content/B2B/metadata:/metadata.json",
+    "/content/B2B/redirects:/redirects.json",
+    "/content/B2B/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/B2B/",
+    "/content/dam/B2B/"
   ]
 }
